@@ -1,0 +1,21 @@
+{
+  "name": "jest-directory-named-resolver",
+  "version": "0.0.1",
+  "description": "Module to resolve jest imports to files matching directory names.",
+  "main": "lib/index.js",
+  "repository": {
+    "url": "https://github.com/jsonnull/jest-directory-named-resolver",
+    "type": "git"
+  },
+  "author": "Jason Nall <jsonnull@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "resolve": "^1.3.2"
+  },
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
