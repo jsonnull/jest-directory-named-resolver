@@ -1,0 +1,1 @@
+# jest-directory-named-resolver
